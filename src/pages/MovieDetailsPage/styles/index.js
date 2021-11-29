@@ -1,0 +1,11 @@
+export { StyledContainer } from './StyledContainer';
+export { StyledMovieDetails } from './StyledMovieDetails';
+export { StyledContent } from './StyledContent';
+export { StyledPoster } from './StyledPoster';
+export { StyledInfoContainer } from './StyledInfoContainer';
+export { StyledOwerview } from './StyledOwerview';
+export { StyledTitle } from './StyledTitle';
+export { StyledReleaseDate } from './StyledReleaseDate';
+export { StyledInfo } from './StyledInfo';
+export { StyledList } from './StyledList';
+export { StyledSimilarMoviePoster } from './StyledSimilarMoviePoster';

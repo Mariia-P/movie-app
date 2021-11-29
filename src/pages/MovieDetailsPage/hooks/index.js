@@ -1,0 +1,1 @@
+export {useMovieDetailsAndSimilarMovies} from './useMovieDetailsAndSimilarMovies';
